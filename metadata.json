@@ -1,0 +1,8 @@
+{
+  "name": "Phaze AI Workshop",
+  "description": "Landing page for Phaze AI \u00d7 JECRC University Workshop for Business Owners in Jaipur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
